@@ -1,13 +1,19 @@
 
+# Docker Multi Container Template
 
-## Build Frontend
-*  cd Frontend
-*  docker build -t frontend .
+## Set up steps
 
-## Build Backend
+### Build Frontend
+``` Bash
+    cd Frontend 
+```
+``` Bash
+    docker build -t frontend .
+```
+### Build Backend
 *  cd Backend
 *  docker build -t backend .
 
-## Docker Compose
+### Docker Compose
 * cd docker-compose
 * docker-compose up

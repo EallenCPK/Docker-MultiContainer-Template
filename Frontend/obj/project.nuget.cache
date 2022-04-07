@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "73/ruKuNr7Cb7WmsKYat57IBK5W/lq65MeZSrrB+zEfNU+sPTa0gU18qn6mmFDVSSixe3ZB2jBNj/6s/e62lFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eallen\\Desktop\\MultiContainer\\Frontend\\Frontend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eallen\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,19 +1,32 @@
-
 # Docker Multi Container Template
 
-## Set up steps
+## Initiation
+***
+* Need docker install 
+* Helps to have dotnet installed
 
-### Build Frontend
+## Start Up
+*** 
+
+#### Build Frontend
 ``` Bash
     cd Frontend 
 ```
 ``` Bash
     docker build -t frontend .
 ```
-### Build Backend
-*  cd Backend
-*  docker build -t backend .
+#### Build Backend
+``` Bash
+    cd Backend
+```
+``` Bash
+    docker build -t backend .
+```
 
-### Docker Compose
-* cd docker-compose
-* docker-compose up
+#### Docker Compose
+``` Bash
+    cd docker-compose
+```
+``` Bash
+    docker-compose 
+```

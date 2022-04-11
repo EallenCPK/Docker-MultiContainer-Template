@@ -18,3 +18,6 @@
 * [Docker tutorial for building dotnet web app](https://docs.docker.com/samples/dotnetcore/)
 * [Microsoft tutorial for building a multiple container dotnet docker app (Outdated but has some useful information)](https://docs.microsoft.com/en-us/visualstudio/containers/tutorial-multicontainer?view=vs-2022)
 * [Docker tutorial for setting up docker-compose](https://docs.docker.com/compose/gettingstarted/)
+***
+#### Next Step
+https://docs.microsoft.com/en-us/azure/aks/tutorial-kubernetes-prepare-app

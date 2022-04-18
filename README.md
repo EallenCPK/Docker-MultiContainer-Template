@@ -1,6 +1,6 @@
 # Docker Multiple Container Application Template
 
-## Initiation
+## Init
 * Need docker install 
 * Helps to have dotnet installed 
 
